@@ -1,5 +1,5 @@
 <template>
-    <Header>Controls page</Header>
+    <Header>AddProducts page</Header>
     <form @submit.prevent="handelSubmit(formValues)">
     <fieldset class="fieldset bg-base-200 border-base-300 rounded-box w-xl border p-4 mx-auto my-5">
 

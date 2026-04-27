@@ -4,12 +4,10 @@
   <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
 
     <!-- Welcome -->
-     <keep-alive>
     <h2 class="text-xl font-bold font-serif text-gray-800">
       Welcome {{ username }}
       <span class="text-indigo-600">(Admin)</span>
     </h2>
-    </keep-alive>
     <!-- Actions -->
     <div class="flex items-center gap-3">
 
